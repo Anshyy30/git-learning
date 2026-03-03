@@ -7,6 +7,8 @@ function update(){
 }
 update();
 console.log(balance);
+console.log("money honey")
+console.log("final commit")
 console.loh("i am girl")
 
 
