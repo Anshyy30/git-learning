@@ -5,3 +5,6 @@ const age=20;
   function update(){
      balance+=300;
   }
+  update();
+  console.log("hello coder army")
+
