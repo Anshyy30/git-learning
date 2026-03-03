@@ -1,5 +1,5 @@
 const  name="rohit"
-const age=20;
+let age=60;
  let balance=300000;
 console.log("hello")
 function update(){
