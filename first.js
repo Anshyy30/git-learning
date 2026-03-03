@@ -1,5 +1,5 @@
 const  name="rohit"
-const age=20;
+let age=60;
  let balance=300000;
 console.log("hello")
 function update(){
@@ -13,7 +13,11 @@ console.log("final commit")
 function showage(value){
      console.log(age+value)
 }
-showage(10);
+showage();
+function showname(){
+    console.log(name);
+}
+showname();
 
 
  
