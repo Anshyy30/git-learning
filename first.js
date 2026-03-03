@@ -10,7 +10,10 @@ console.log(balance);
 console.log("money honey")
 console.log("final commit")
 
-
+function showage(){
+     console.log(age)
+}
+showage();
 
 
  
