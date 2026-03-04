@@ -13,11 +13,12 @@ console.log("final commit")
 function showage(value){
      console.log(age+value)
 }
-showage();
+showage(10);
 function showname(){
     console.log(name);
 }
 showname();
+console.log("latest update")
 
 
  
